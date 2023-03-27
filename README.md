@@ -1,4 +1,4 @@
-Hi 👋 My name is Ivan Jacob ===========================
+Ivan Jacob
 
 <!--
 **ivanj-0/ivanj-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
